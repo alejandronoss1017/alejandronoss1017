@@ -12,17 +12,18 @@ Hello and welcome to my GitHub profile! I'm glad you've found your way here. As 
 
 <br>
 
-🎓I'm currently studying software engineering at the Pontifical Javeriana University in Colombia.
+🎓 I'm currently studying software engineering at the Pontifical Javeriana University in Colombia.
 
-☁️I'm an aspiring to be a full stack developer, I'm in love with web development.
+☁️ I'm an aspiring to be a full stack developer, I'm in love with web development.
 
-✍️In my free time, I play guitar and bass also I practice Ultimate Frisbee, play video games and keep learning by myself.
+✍️ In my free time, I play guitar and bass also I practice Ultimate Frisbee, play video games and keep learning by myself.
+
 
 <br>
 
 # 💻 Tech Stack:
 
-### 📖Languages
+### 📖 Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandronoss1017&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="right" alt="Most Used Languages" />
 
@@ -31,10 +32,14 @@ Hello and welcome to my GitHub profile! I'm glad you've found your way here. As 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### 📂Databases
+### 📂 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💿 OS
+
+![Pop_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 
 ## ⚒️ Learning
 
