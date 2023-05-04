@@ -8,7 +8,7 @@ Hello and welcome to my GitHub profile! I'm glad you've found your way here. As 
 
 # 💫 About Me:
 
-<img src="https://github-readme-stats.vercel.app/api?username=alejandronoss1017&theme=dark&hide_border=false&include_all_commits=true&count_private=true" align="right" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=alejandronoss1017&theme=dark&hide_border=false&include_all_commits=true&count_private=false" align="right" alt="GitHub Stats" />
 
 <br>
 
